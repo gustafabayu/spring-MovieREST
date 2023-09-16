@@ -3,11 +3,11 @@ This project is a Java Spring Boot application that provides a RESTful API for m
 
 Prerequisites
 Before you begin, ensure you have met the following requirements:
+- Java Development Kit (JDK) 17 or higher installed.
+- Apache Maven installed.
+- PostgreSQL database server installed and running.
+- Your PostgreSQL database credentials (username and password).
 
-Java Development Kit (JDK) 17 or higher installed.
-Apache Maven installed.
-PostgreSQL database server installed and running.
-Your PostgreSQL database credentials (username and password).
 Getting Started
 To get started with this project, follow these steps:
 
